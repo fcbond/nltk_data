@@ -15,8 +15,10 @@
     <item ref="conll2007"/>
     <item ref="crubadan"/>
     <item ref="dependency_treebank"/>
+    <item ref="dolch"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
+    <item ref="framenet_v17"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
     <item ref="gutenberg"/>
@@ -34,7 +36,6 @@
     <item ref="names"/>
     <item ref="nombank.1.0"/>
     <item ref="nps_chat"/>
-    <item ref="oanc_masc"/>
     <item ref="omw"/>
     <item ref="paradigms"/>
     <item ref="pil"/>
@@ -63,6 +64,7 @@
     <item ref="unicode_samples"/>
     <item ref="universal_treebanks_v20"/>
     <item ref="verbnet"/>
+    <item ref="verbnet3"/>
     <item ref="webtext"/>
     <item ref="wordnet"/>
     <item ref="wordnet_ic"/>
@@ -70,5 +72,6 @@
     <item ref="ycoe"/>
     <item ref="panlex_swadesh"/>
     <item ref="mte_teip5"/>
+    <item ref="nonbreaking_prefixes"/>
 </collection>
 

@@ -16,9 +16,11 @@
     <item ref="conll2007"/>
     <item ref="crubadan"/>
     <item ref="dependency_treebank"/>
+    <item ref="dolch"/>
     <item ref="europarl_raw"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
+    <item ref="framenet_v17"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
     <item ref="gutenberg"/>
@@ -37,9 +39,8 @@
     <item ref="names"/>
     <item ref="nombank.1.0"/>
     <item ref="nps_chat"/>
-    <item ref="oanc_masc"/>
     <item ref="omw"/>
-    <item ref="opinion_lexicon"/>   
+    <item ref="opinion_lexicon"/>
     <item ref="paradigms"/>
     <item ref="pil"/>
     <item ref="pl196x"/>
@@ -47,7 +48,6 @@
     <item ref="problem_reports"/>
     <item ref="propbank"/>
     <item ref="ptb"/>
-    <item ref="oanc_masc"/>
     <item ref="product_reviews_1"/>
     <item ref="product_reviews_2"/>
     <item ref="pros_cons"/>
@@ -75,13 +75,13 @@
     <item ref="unicode_samples"/>
     <item ref="universal_treebanks_v20"/>
     <item ref="verbnet"/>
+    <item ref="verbnet3"/>
     <item ref="webtext"/>
     <item ref="wordnet"/>
     <item ref="wordnet_ic"/>
     <item ref="words"/>
     <item ref="ycoe"/>
     <item ref="rslp"/>
-    <item ref="hmm_treebank_pos_tagger"/>
     <item ref="maxent_treebank_pos_tagger"/>
     <item ref="universal_tagset"/>
     <item ref="maxent_ne_chunker"/>
@@ -97,4 +97,12 @@
     <item ref="word2vec_sample"/>
     <item ref="panlex_swadesh"/>
     <item ref="mte_teip5"/>
+    <item ref="averaged_perceptron_tagger"/>
+    <item ref="averaged_perceptron_tagger_ru"/>
+    <item ref="perluniprops"/>
+    <item ref="nonbreaking_prefixes"/>
+    <item ref="vader_lexicon"/>
+    <item ref="porter_test"/>
+    <item ref="wmt15_eval"/>
+    <item ref="mwa_ppdb"/>
 </collection>
